@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent ballad of St. George and the dragon</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22730</idno><idno type="EEBO-CITATION">99834268</idno>
+  <idno type="VID">198377</idno>
+  <idno type="EEBO-PROQUEST">2240955367</idno>
+  
+            <idno type="STC">Wing E3792B</idno>
+            <idno type="PROQUEST">99834268</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834268e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:716-717)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent ballad of St. George and the dragon</title>
+               </titleStmt>
+               <extent>1 sheet : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Newcastle?,</pubPlace>
+                  <date>1750?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Why should we boast".</note>
+                  <note>In four columns with the title and the woodcut above the first two; the first and second columns are separated by an ornamental rule as well as the third and fourth.</note>
+                  <note>Dated [1700?] in Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:198377:1"/>
+            <head>An Excellent BALLAD of St. <hi>GEORGE</hi> and the DRAGON.</head>
+            <head type="illustration">
+               <figure>
+                  <figDesc>depiction of St George slaying dragon</figDesc>
+               </figure>
+            </head>
+            <lg>
+               <l>WHY should we boast</l>
+               <l>Of <hi>Arthur</hi> and his Knights,</l>
+               <l>Knowing how many Men,</l>
+               <l>Have performed Fights?</l>
+               <l>Or why should we speak</l>
+               <l>Of Sir <hi>Lancelot du Lake,</hi>
+               </l>
+               <l>Or Sir <hi>Tristrum du Leon,</hi>
+               </l>
+               <l>That fought for Ladies Sake?</l>
+               <l>Read but old Stories,</l>
+               <l>And there you shall see,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow St. <hi>George,</hi> St. <hi>George.</hi>
+               </l>
+               <l>He made the Dragon flee.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>St <hi>Dennis</hi> was for <hi>France,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <hi>Sing,</hi> Honi soit qui Mally Pense.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>To speak of Monarchs,</l>
+               <l>It were too long to tell,</l>
+               <l>And likewise to the <hi>Romans,</hi>
+               </l>
+               <l>How far they did excel:</l>
+               <l>
+                  <hi>Vanni<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al</hi> and <hi>Scipio,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> many a Field did fight;</l>
+               <l>
+                  <hi>Orlando Furioso,</hi>
+               </l>
+               <l>He was a valiant Knight,</l>
+               <l>
+                  <hi>Romulus</hi> and <hi>Rhemus,</hi>
+               </l>
+               <l>Were those that <hi>Rome</hi> did build;</l>
+               <l>But St. <hi>George,</hi> St. <hi>George,</hi>
+               </l>
+               <l>The Dagon he hath kill'd,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jepthah</hi> and <hi>Gideon,</hi>
+               </l>
+               <l>They led their Men to fight,</l>
+               <l>The <hi>Gibbionites</hi> and <hi>Ammonites,</hi>
+               </l>
+               <l>They put them all to Flight:</l>
+               <l>
+                  <hi>Hercules</hi> his Labour,</l>
+               <l>Was in the Vale of <hi>Bass,</hi>
+               </l>
+               <l>And <hi>Sampson</hi> slew a Thousand,</l>
+               <l>With the Jaw-bone of an Ass.</l>
+               <l>And when he was blind,</l>
+               <l>Pull'd the Temple ro the Ground;</l>
+               <l>But St. <hi>George,</hi> St <hi>G<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orge,</hi>
+               </l>
+               <l>The Dragon did confound.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>St. <hi>Dennis</hi> was for <hi>France,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <pb facs="tcp:198377:1"/>
+            <lg>
+               <l>
+                  <hi>Valentine</hi> and <hi>Orson,</hi>
+               </l>
+               <l>They came of <hi>Pepin</hi>'s Blood;</l>
+               <l>
+                  <hi>Alfred</hi> and <hi>Aldricus,</hi>
+               </l>
+               <l>They were brave Knights and good:</l>
+               <l>The four Sons of <hi>Ammon,</hi>
+               </l>
+               <l>That fought with <hi>Charlemain,</hi>
+               </l>
+               <l>Sir <hi>Hugh de Bourdeaux,</hi>
+               </l>
+               <l>And <hi>Godfrey de Bullogin;</hi>
+               </l>
+               <l>These were all <hi>French</hi> Knights,</l>
+               <l>The <hi>Pagans</hi> to convert;</l>
+               <l>But St. <hi>George,</hi> St. <hi>George,</hi>
+               </l>
+               <l>He pull'd out the Dragon's Heart.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>King <hi>Henry</hi> the Fifth,</l>
+               <l>He conquered all <hi>France,</hi>
+               </l>
+               <l>He quartered their Arms,</l>
+               <l>His Honour to advance:</l>
+               <l>He rais'd their Walls,</l>
+               <l>And pull'd their Cities down,</l>
+               <l>And he garnish'd his Head</l>
+               <l>With a double tripple Crown:</l>
+               <l>He thumped the <hi>French,</hi>
+               </l>
+               <l>And after Home he came;</l>
+               <l>But St <hi>George,</hi> St. <hi>George,</hi>
+               </l>
+               <l>He made the Dragon tame.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>St. <hi>David</hi> you know</l>
+               <l>Loved Leeks and toasted Cheese,</l>
+               <l>And <hi>Jason</hi> was the Man</l>
+               <l>Brought Home the Golden Fleece;</l>
+               <l>And <hi>Patrick</hi> you know,</l>
+               <l>He was St. <hi>George</hi>'s Boy;</l>
+               <l>Seven Years he kept his Horse,</l>
+               <l>Then stole him away:</l>
+               <l>For which knavish Act</l>
+               <l>A Slave he doth remain;</l>
+               <l>But St. <hi>George,</hi> St. <hi>George.</hi>
+               </l>
+               <l>He hath the Dragon slain.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tamerlane</hi> the Emperor,</l>
+               <l>In Iron Cage did Crown,</l>
+               <l>With all his bloody Flags</l>
+               <l>Display'd before the Town:</l>
+               <l>
+                  <hi>Scanderberg</hi> Magnanimous,</l>
+               <l>
+                  <hi>Mahomet</hi>s Bashaws did dread:</l>
+               <l>Whose victorious Bones</l>
+               <l>Were worn when he was dead:</l>
+               <l>His <hi>Beglerbegs</hi> his Corn like dreads,</l>
+               <l>
+                  <hi>George Castriot</hi> was he call'd;</l>
+               <l>But St. <hi>George,</hi> St. <hi>George,</hi>
+               </l>
+               <l>The Dragon he hath maul'd.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ottoman</hi> the <hi>Tarter,</hi>
+               </l>
+               <l>He came of <hi>Persia</hi>'s Race;</l>
+               <l>The great <hi>Mogul</hi> with's Chest,</l>
+               <l>So full of Cloves and Mace:</l>
+               <l>The <hi>Grecian</hi> Youth <hi>Bucephalous,</hi>
+               </l>
+               <l>He manfully did bestride:</l>
+               <l>But these with their Worthies Nine,</l>
+               <l>St. <hi>George</hi> did them betide.</l>
+               <l>
+                  <hi>Gustavus Adolphus,</hi>
+               </l>
+               <l>Was <hi>Swedeland</hi>'s Warlike King;</l>
+               <l>But St. <hi>George,</hi> St. <hi>George,</hi>
+               </l>
+               <l>He pull'd forth the Dragon's Sting,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Poldragon</hi> and <hi>Cadwallader,</hi>
+               </l>
+               <l>Of <hi>British</hi> Blood do boast;</l>
+               <l>Tho' <hi>John</hi> of <hi>Gaunt</hi> his Foes did daunt,</l>
+               <l>St. <hi>George</hi> shall rule the Roast:</l>
+               <l>
+                  <hi>Agamemnon</hi> and <hi>Clemedcn,</hi>
+               </l>
+               <l>And <hi>Macedon</hi> did Feast,</l>
+               <l>But compared to our Champion,</l>
+               <l>They are but meer Cheats▪</l>
+               <l>Brave <hi>Malta</hi> Knights in <hi>Turkish</hi> Flights,</l>
+               <l>Their brandish'd Swords out-drew,</l>
+               <l>But St. <hi>George</hi> met the Dragon,</l>
+               <l>And run him through and through▪</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Bida</hi> the <hi>Amazon,</hi>
+               </l>
+               <l>
+                  <hi>Poetus</hi> overthrew,</l>
+               <l>As fierce as either <hi>Vandal,</hi>
+               </l>
+               <l>
+                  <hi>Goth, Saracen</hi> or <hi>Jew:</hi>
+               </l>
+               <l>The potent <hi>Holofernes,</hi>
+               </l>
+               <l>As he lay in his Bed,</l>
+               <l>In came his Wife <hi>Judith,</hi>
+               </l>
+               <l>And subtiley stole his Head:</l>
+               <l>Brave <hi>Cyclops</hi> stout, with <hi>Jove</hi> he fough</l>
+               <l>Tho' he shower'd down Thunder;</l>
+               <l>But St. <hi>George</hi> kill'd the Dragon,</l>
+               <l>And was not that a Wonder;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mark Anthony,</hi> I'll warrant you,</l>
+               <l>Play'd Feats with <hi>Egypt</hi>'s Queen;</l>
+               <l>Sir <hi>Elamore,</hi> that valiant Knight,</l>
+               <l>The like was never seen.</l>
+               <l>Grim <hi>Gorgon</hi>'s Might was know in Fight,</l>
+               <l>Old <hi>Bevis</hi> most Men frighted;</l>
+               <l>The <hi>Mermidons</hi> and <hi>Prester Johns,</hi>
+               </l>
+               <l>Why were not these Men knighted?</l>
+               <l>Brave <hi>Spinola</hi> took in <hi>Breda,</hi>
+               </l>
+               <l>
+                  <hi>Nassau</hi> did it recover;</l>
+               <l>But St. <hi>George,</hi> St. <hi>George,</hi>
+               </l>
+               <l>Turn'd the Dragon over and over,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>St. <hi>George</hi> he was for <hi>England,</hi> &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
